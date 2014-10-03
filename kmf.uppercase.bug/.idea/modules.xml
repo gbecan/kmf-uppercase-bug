@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kmf.uppercase.bug.iml" filepath="$PROJECT_DIR$/kmf.uppercase.bug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kmf.uppercase.bug.NotOk/kmf.uppercase.bug.NotOk.iml" filepath="$PROJECT_DIR$/kmf.uppercase.bug.NotOk/kmf.uppercase.bug.NotOk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kmf.uppercase.bug.ok/kmf.uppercase.bug.ok.iml" filepath="$PROJECT_DIR$/kmf.uppercase.bug.ok/kmf.uppercase.bug.ok.iml" />
+    </modules>
+  </component>
+</project>
+
